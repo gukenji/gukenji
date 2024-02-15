@@ -1,5 +1,5 @@
 # <div align="center"><h1>welcome to my github!</h1></div>
-# <div align="center"><h2>if you have any questions, feel free to reach out to me.</h2></div>
+# <div align="center"><h3>if you have any questions, feel free to reach out to me.</h3></div>
 
 <div align="center"><h3>my skills</h3></div>
 
